@@ -3,7 +3,7 @@
   CRM simples em Python, em construção como projeto de aprendizado de fundamentos da linguagem.
 
   ## Funcionalidades atuais
-Adição de clinte.
+Adição de cliente.
 Salvar cliente em input
 
   ## Como rodar
